@@ -1,5 +1,5 @@
 Developers
-      Jithesh P Shetty
+      Jithesh P Shetty AND
       Dheeraj KB
 
 
